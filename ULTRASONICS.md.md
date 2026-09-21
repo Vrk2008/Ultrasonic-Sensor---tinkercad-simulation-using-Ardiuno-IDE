@@ -64,5 +64,6 @@ This project focuses on designing and simulating an **automated distance trackin
 * **Multi-Zone Feedback**: Integrating an active piezo buzzer to generate variable-frequency audio pings that beep faster as an object approaches, matching commercial parking systems.  
 * **Environmental Self-Correction**: Adding a DHT11 temperature sensor to actively update the speed-of-sound constant used in the math calculation, keeping distance metrics accurate in freezing or hot climates.  
 * **Autonomous Collision Avoidance**: Porting this structural layout into an H-bridge motor driver configuration to build an autonomous rover capable of mapping surroundings and steering clear of walls.
+<img width="640" height="568" alt="ultrasonic" src="https://github.com/user-attachments/assets/6c925436-38ea-445b-a300-c0ff1b0ecbac" />
+<img width="725" height="453" alt="tinkerultra" src="https://github.com/user-attachments/assets/bbac7a11-0143-4447-a677-27049bb7f8ab" />
 
-v
